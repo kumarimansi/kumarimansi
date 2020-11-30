@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarimansi&label=Profile%20views&color=0e75b6&style=flat" alt="kumarimansi" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **mansinegiuk@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
