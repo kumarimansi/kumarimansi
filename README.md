@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋 everyone, I'm Kumari Mansi</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarimansi&label=Profile%20views&color=0e75b6&style=flat" alt="kumarimansi" /> </p>
+
 
 
 
