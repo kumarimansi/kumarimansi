@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ML and Web Development**
 
-- 📫 How to reach me **mansinegiuk@gmail.com** and [LinkedIn](https://www.linkedin.com/in/kumari-mansi/)
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kumari-mansi/)**
 
 
 <h3 align="left">Languages and Tools:</h3><br/>
