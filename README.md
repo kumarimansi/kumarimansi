@@ -16,5 +16,5 @@
 <a href="https://github.com/kumarimansi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarimansi&layout=compact&theme=radical" />
 </a>
-<h3>[mansi]("https://github.com/kumarimansi")</h3>
+
 
