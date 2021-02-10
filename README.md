@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone👋, I'm Kumari Mansi 🙂</h1>
 <h3 align="center">A passionate Programmer and a Tech enthusiast </h3>
-<img align="right" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif?itemid=14794084">
+<img align="right" src="https://vidhi-mody.github.io/img/contribute.gif">
 
 - 🌱 I’m currently learning **Web Development**
 
