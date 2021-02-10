@@ -1,5 +1,5 @@
 <h1 align="left">Hii Everyone👋</h1>
-<h3 align="left">I am **[Kumari Mansi](https://www.linkedin.com/in/kumari-mansi/)**, a 2nd year student from Graphic Era Hill University, pursuing B.tech in Computer Science Engineering. I am a Programmer and a Tech enthusiast </h3>
+<h3 align="left">I am [Kumari Mansi](https://www.linkedin.com/in/kumari-mansi/), a 2nd year student from Graphic Era Hill University, pursuing B.tech in Computer Science Engineering. I am a Programmer and a Tech enthusiast </h3>
 <img align="right" src="https://vidhi-mody.github.io/img/contribute.gif">
 
 - 🌱 I’m currently learning **Web Development**
