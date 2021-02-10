@@ -1,10 +1,9 @@
-<h1 align="center">Hello Everyone👋, I'm Kumari Mansi 🙂</h1>
-<h3 align="center">A passionate Programmer and a Tech enthusiast </h3>
-<img align="right" src="https://vidhi-mody.github.io/img/contribute.gif" width="460" height="290">
+<h1 align="left">Hii Everyone👋</h1>
+<h3 align="left">I am **[Kumari Mansi](https://www.linkedin.com/in/kumari-mansi/)**, a 2nd year student from Graphic Era Hill University, pursuing B.tech in Computer Science Engineering. I am a Programmer and a Tech enthusiast </h3>
+<img align="right" src="https://vidhi-mody.github.io/img/contribute.gif">
 
 - 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kumari-mansi/)**
+- 📫 How to reach me **[mansinegiuk@gmail.com](mansinegiuk@gmail.com)**
 
 
 <h3 align="left">Languages and Tools:</h3><br/>
