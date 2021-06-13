@@ -26,5 +26,5 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kumarimansi)  
 
-![Profile views](https://gpvc.arturio.dev/kumarimansi)  
+ 
 
