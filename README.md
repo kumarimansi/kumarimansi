@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumari Mansi</h1>
 <h3 align="center">A Programmer and a Tech enthusiast.</h3>
-
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQEXD6RpPRAswA/profile-displaybackgroundimage-shrink_350_1400/0/1623767925710?e=1629331200&v=beta&t=LKRdOtpb2o3SmSek4RJXwjAnnu23vnYJ76IJrkUWyI8">
 <h4 align="left">I am Kumari Mansi, an undergraduate student from Graphic Era Hill University,Dehradun pursuing B.tech in Computer Science Engineering. I am a Programmer and a Tech enthusiast.</h4>
 <img align="right" src="https://vidhi-mody.github.io/img/contribute.gif">
 
