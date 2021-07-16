@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently working on **Open Source Contribution**
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on **Research Project**
+- 🌱 I’m currently learning **AWS Machine Learning**
 - 💬 Ask me about **C/C++**
 - 📫 How to reach me **mansinegiuk@gmail.com**
 - 😄 Pronouns: **She/Her** 
